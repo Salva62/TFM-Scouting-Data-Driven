@@ -26,6 +26,18 @@ Metodología CRISP-DM:
 5. Evaluación  
 6. Despliegue  
 
+## Dashboard interactivo (Tableau Public)
+
+El dashboard interactivo del proyecto está disponible en Tableau Public, permitiendo explorar de forma dinámica los resultados del modelo:
+
+https://public.tableau.com/app/profile/salvador.lvarez.s.nchez/viz/AnlisisCoste-Rendimiento/PlanificcinEstratgicadelOnceIdeal?publish=yes
+
+A través del dashboard es posible analizar:
+- Comparación coste-rendimiento de jugadores  
+- Evaluación por posición táctica  
+- Identificación de oportunidades de mercado  
+- Construcción del once ideal  
+
 ---
 
 ## Estructura del Proyecto
@@ -45,6 +57,9 @@ TFM_Salvador_Alvarez/
 │   ├── Analisis_Estrategico_Mercado_1.twb
 │   ├── Analisis_Estrategico_Mercado_2.twb
 │   └── Planificacion_Once_Ideal.twb
+│
+├── 04_PRESENTACION/
+│   └── Presentación TFM - Documento Marco.pptx
 │
 └── README.md
 ```
