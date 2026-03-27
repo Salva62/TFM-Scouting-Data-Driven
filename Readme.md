@@ -1,5 +1,6 @@
 # TFM – Salvador Álvarez Sánchez  
 ## Modelo Data-Driven de Scouting en la Premier League  
+Proyecto de Data Science aplicado a la toma de decisiones en Dirección Deportiva mediante análisis avanzado de rendimiento y optimización de mercado.
 
 ---
 
